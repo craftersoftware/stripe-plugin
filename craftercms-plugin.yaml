@@ -15,15 +15,15 @@ plugin:
     minor: 0
     patch: 15
   description: Stripe API integration that allows projects to charge a subscription
-  documentation: "https://raw.githubusercontent.com/craftercms/stripe-plugin/main/README.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/stripe-plugin/main/README.md"
   website:
     name: stripe
-    url: https://github.com/craftercms/stripe-plugin
+    url: https://github.com/craftersoftware/stripe-plugin
   media:
     screenshots:
       - title: CrafterCMS
         description: CrafterCMS Plugin for Stripe
-        url: "https://raw.githubusercontent.com/craftercms/stripe-plugin/main/.crafter/logo.webp"
+        url: "https://raw.githubusercontent.com/craftersoftware/stripe-plugin/main/.crafter/logo.webp"
   developer:
     company:
       name: CrafterCMS
